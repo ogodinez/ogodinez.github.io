@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Hello & Welcome to my webpage!
 
-You can use the [editor on GitHub](https://github.com/ogodinez/ogodinez.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This here is some sample text that I've taken the liberty of laying out for my readers.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Expect better quality content in the coming weeks.
 
-### Markdown
+### ( ͡° ͜ʖ ͡°)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
